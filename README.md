@@ -48,3 +48,9 @@ Pode ser necessário ajustar o endereço da API no seguinte arquivo:
 // Mude o IP conforme necessário:
 // final String _baseUrl = 'http://localhost:3000/api/auth'; // Para Web (Chrome) e iOS Simulator
 // final String _baseUrl = 'http://10.0.2.2:3000/api/auth';  // Para Emulador Android
+```
+
+## Screenshot
+| Tela de Login | Tela de Perfil | Tela da HomePage | Tela do Token CMD |
+| :-----------: | :------------: |:----------------:| :---------------: |
+| ![Tela de Login](screenshots/Login.png) | ![Tela de Perfil](screenshots/perfilpage.png) | ![Tela da HomePage](screenshots/homepage.png) | ![Tela do Token CMD](screenshots/Token.png) |
