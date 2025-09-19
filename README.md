@@ -23,7 +23,7 @@ Este projeto foi criado como parte do treinamento "Flutter + Node.js — Tela de
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio-flutter>
+    git clone <https://github.com/Cuidoka/flutter-auth-app>
     ```
 
 2.  **Navegue até a pasta do projeto:**
