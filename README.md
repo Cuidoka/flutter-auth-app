@@ -23,7 +23,7 @@ Este projeto foi criado como parte do treinamento "Flutter + Node.js — Tela de
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <url-do-seu-repositorio-flutter>
+    git clone <https://github.com/Cuidoka/flutter-auth-app>
     ```
 
 2.  **Navegue até a pasta do projeto:**
@@ -38,7 +38,7 @@ Este projeto foi criado como parte do treinamento "Flutter + Node.js — Tela de
 
 ## Configuração
 
-**IMPORTANTE:** Este aplicativo precisa se conectar à [API de Autenticação (backend)](link-para-seu-repositorio-backend). Certifique-se de que o servidor da API esteja rodando antes de executar o app.
+**IMPORTANTE:** Este aplicativo precisa se conectar à [API de Autenticação (backend)](https://github.com/Cuidoka/nodejs-auth-api). Certifique-se de que o servidor da API esteja rodando antes de executar o app.
 
 Pode ser necessário ajustar o endereço da API no seguinte arquivo:
 
@@ -49,6 +49,7 @@ Pode ser necessário ajustar o endereço da API no seguinte arquivo:
 // final String _baseUrl = 'http://localhost:3000/api/auth'; // Para Web (Chrome) e iOS Simulator
 // final String _baseUrl = 'http://10.0.2.2:3000/api/auth';  // Para Emulador Android
 ```
+
 ## Screenshot
 | Tela de Login | Tela de Perfil | Tela da HomePage | Tela do Token CMD |
 | :-----------: | :------------: |:----------------:| :---------------: |
