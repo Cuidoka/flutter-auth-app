@@ -38,7 +38,7 @@ Este projeto foi criado como parte do treinamento "Flutter + Node.js — Tela de
 
 ## Configuração
 
-**IMPORTANTE:** Este aplicativo precisa se conectar à [API de Autenticação (backend)](link-para-seu-repositorio-backend). Certifique-se de que o servidor da API esteja rodando antes de executar o app.
+**IMPORTANTE:** Este aplicativo precisa se conectar à [API de Autenticação (backend)](https://github.com/Cuidoka/nodejs-auth-api). Certifique-se de que o servidor da API esteja rodando antes de executar o app.
 
 Pode ser necessário ajustar o endereço da API no seguinte arquivo:
 
